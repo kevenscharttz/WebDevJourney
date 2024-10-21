@@ -4,7 +4,7 @@ Este repositório tem como objetivo armazenar meus estudos e exercícios relacio
 
 É importante ressaltar que este repositório foi criado exclusivamente para meus próprios estudos e **não tem a intenção** de servir como um material de referência para outras pessoas.
 
-# Recomendações
+# Recomendações ✔️
 Se você está buscando aprender sobre desenvolvimento web, recomendo as mesmas fontes que utilizo para os meus estudos. São conteúdos ricos e bem explicados, que podem ser bastante úteis para iniciantes:
 
 - [Repositório GitHub do Gustavo Guanabara](https://github.com/gustavoguanabara);
