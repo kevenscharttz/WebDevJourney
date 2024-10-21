@@ -7,8 +7,8 @@ Este repositório tem como objetivo armazenar meus estudos e exercícios relacio
 # Recomendações
 Se você está buscando aprender sobre desenvolvimento web, recomendo as mesmas fontes que utilizo para os meus estudos. São conteúdos ricos e bem explicados, que podem ser bastante úteis para iniciantes:
 
-- [Repositório GitHub do Gustavo Guanabara](https://github.com/gustavoguanabara)  
+- [Repositório GitHub do Gustavo Guanabara](https://github.com/gustavoguanabara);
 
-- [Canal Curso em Vídeo no YouTube](https://www.youtube.com/c/CursoemV%C3%ADdeo)  
+- [Canal Curso em Vídeo no YouTube](https://www.youtube.com/c/CursoemV%C3%ADdeo);
 
-- [Plataforma Curso em Vídeo](https://www.cursoemvideo.com/)  
+- [Plataforma Curso em Vídeo](https://www.cursoemvideo.com/).
